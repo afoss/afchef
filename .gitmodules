@@ -1,0 +1,39 @@
+[submodule "cookbooks/cloudfoundry-cookbook"]
+	path = cookbooks/cloudfoundry-cookbook
+	url = git@github.com:afoss/cloudfoundry-cookbook
+[submodule "cookbooks/cloudfoundry-dea-cookbook"]
+	path = cookbooks/cloudfoundry-dea-cookbook
+	url = git@github.com:afoss/cloudfoundry-dea-cookbook
+[submodule "cookbooks/cloudfoundry-service_broker-cookbook"]
+	path = cookbooks/cloudfoundry-service_broker-cookbook
+	url = git@github.com:afoss/cloudfoundry-service_broker-cookbook
+[submodule "cookbooks/cloudfoundry-health_manager-cookbook"]
+	path = cookbooks/cloudfoundry-health_manager-cookbook
+	url = git@github.com:afoss/cloudfoundry-health_manager-cookbook
+[submodule "cookbooks/cloudfoundry-cloud_controller-cookbook"]
+	path = cookbooks/cloudfoundry-cloud_controller-cookbook
+	url = git@github.com:afoss/cloudfoundry-cloud_controller-cookbook
+[submodule "cookbooks/cloudfoundry-router-cookbook"]
+	path = cookbooks/cloudfoundry-router-cookbook
+	url = git@github.com:afoss/cloudfoundry-router-cookbook
+[submodule "cookbooks/cloudfoundry-ruby-runtime-cookbook"]
+	path = cookbooks/cloudfoundry-ruby-runtime-cookbook
+	url = git@github.com:afoss/cloudfoundry-ruby-runtime-cookbook
+[submodule "cookbooks/cloudfoundry-nginx-cookbook"]
+	path = cookbooks/cloudfoundry-nginx-cookbook
+	url = git@github.com:afoss/cloudfoundry-nginx-cookbook
+[submodule "cookbooks/cloudfoundry-mongodb-service-cookbook"]
+	path = cookbooks/cloudfoundry-mongodb-service-cookbook
+	url = git@github.com:afoss/cloudfoundry-mongodb-service-cookbook
+[submodule "cookbooks/cloudfoundry_service-cookbook"]
+	path = cookbooks/cloudfoundry_service-cookbook
+	url = git@github.com:afoss/cloudfoundry_service-cookbook
+[submodule "cookbooks/cloudfoundry-mysql-service-cookbook"]
+	path = cookbooks/cloudfoundry-mysql-service-cookbook
+	url = git@github.com:afoss/cloudfoundry-mysql-service-cookbook
+[submodule "cookbooks/nats-cookbook"]
+	path = cookbooks/nats-cookbook
+	url = git@github.com:afoss/nats-cookbook
+[submodule "cookbooks/cloudfoundry-stager-cookbook"]
+	path = cookbooks/cloudfoundry-stager-cookbook
+	url = git@github.com:afoss/cloudfoundry-stager-cookbook
